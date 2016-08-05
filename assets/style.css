@@ -1,0 +1,28 @@
+.giphDiv{
+align-content: center;
+float:left;
+
+}
+
+.giphImage{
+float:left;
+width: 100%;
+height: 100%;
+align-content: center;
+
+
+}
+
+#giphButtons{
+	float: left;
+}
+#comedian-form{
+	float: left;
+}
+#wrapper{
+
+	margin-left: 10%;
+	margin-right: 10%;
+	height:400px;
+	
+}
